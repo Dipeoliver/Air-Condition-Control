@@ -1,0 +1,14 @@
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\bin\Debug\Controle Temperatura servidor.exe.config
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\bin\Debug\Controle Temperatura servidor.exe
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\bin\Debug\Controle Temperatura servidor.pdb
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle Temperatura servidor.csprojAssemblyReference.cache
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle_Temperatura_servidor.Form1.resources
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle_Temperatura_servidor.Properties.Resources.resources
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle Temperatura servidor.csproj.GenerateResource.cache
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle Temperatura servidor.csproj.CoreCompileInputs.cache
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle Temperatura servidor.exe
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle Temperatura servidor.pdb
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\bin\Debug\Controle Temperatura servidor.exe.manifest
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\bin\Debug\Controle Temperatura servidor.application
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle Temperatura servidor.exe.manifest
+C:\Users\diego.oliveira\source\repos\Controle Temperatura servidor\Controle Temperatura servidor\obj\Debug\Controle Temperatura servidor.application
